@@ -1,0 +1,14 @@
+{
+  "name": "relearning-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Serrowxd/relearning-code.git",
+  "author": "Kevin Jolley <serrowpls@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "scss": "node-sass --watch styles -o styles"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
